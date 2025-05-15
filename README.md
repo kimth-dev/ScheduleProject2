@@ -13,6 +13,7 @@
 
 API 명세서
 ![image](https://github.com/user-attachments/assets/0dc8c320-6f90-4d6a-a180-0a60f2e5680f)
+
 ERD
 ![image](https://github.com/user-attachments/assets/49cf137d-4d41-4181-82d1-9b9018c03ae8)
 
